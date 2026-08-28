@@ -27,9 +27,6 @@ temp-files/
 knowledge/processor/import_processor/input_dir/
 knowledge/processor/import_processor/output_dir/
 
-# Evaluation generated results
-knowledge/evaluation/results/
-
 # ==============================
 # Logs
 # ==============================
